@@ -6,7 +6,6 @@ It is a practice project created to improve frontend design skills and understan
 🚀 Features
 🎨 Clean and modern UI design
 📜 One page scroll layout
-📱 Responsive design for mobile and desktop
 🧱 Organized sections (Overview, Music, Video, Gift Cards)
 ⚡ Lightweight static website (no JavaScript used)
 🛠️ Technologies Used
